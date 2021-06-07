@@ -1,0 +1,6 @@
+{
+    "name": "workspace-b",
+    "dependencies": {
+        "mocha": "8.4.0"
+    }
+}
